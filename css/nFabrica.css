@@ -1,0 +1,17 @@
+
+.div-mapa {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Arial", sans-serif;
+  background-color: #c8cbcd;
+  color: #333;
+  padding: 20px;
+}
+
+iframe {
+  filter: invert(100%);
+  margin-top: 30px;
+}
